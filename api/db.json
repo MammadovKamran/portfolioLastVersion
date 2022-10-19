@@ -1,0 +1,25 @@
+{
+  "myData": {
+    "name": "Kamran",
+    "surname": "Mammadov",
+    "specialty1": "Front End",
+    "specialty2": "Developer",
+    "birthday": "03.07.1997",
+    "location": "Baku, Azerbaijan",
+    "number": "+994 051(070) 308 41 55",
+    "email": "kamran.97.memmedov@gmail.com",
+    "githubName": "MammadovKamran",
+    "githubUrl": "https://github.com/MammadovKamran",
+    "description": "My name is Kamran Mammadov . I am a Front end developer, and I'm very passionate and dedicated to my work. I’m currently working on web development technologies like JavaScript, React etc."
+  },
+  "projects": [
+    { "repoName": "Tic Tac Toe", "repoLink": "https://github.com/MammadovKamran/X-O-Game" },
+    { "repoName": "Weather app", "repoLink": "https://github.com/MammadovKamran/Weather-App" },
+    { "repoName": "Todo List with React Hooks", "repoLink": "https://github.com/MammadovKamran/TodoOnlyReactHook" },
+    { "repoName": "Todo List with React Api", "repoLink": "https://github.com/MammadovKamran/TodoListwithApi" },
+    { "repoName": "Restaurant App ", "repoLink": "https://github.com/MammadovKamran/Reastourant_App" },
+    { "repoName": "Nortwind project in React", "repoLink": "https://github.com/MammadovKamran/Nortwind-React" },
+    { "repoName": "Crud project in React", "repoLink": "https://github.com/MammadovKamran/CRUD-project" }
+    
+  ]
+}
